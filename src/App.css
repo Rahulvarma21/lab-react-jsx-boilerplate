@@ -1,1 +1,13 @@
-/* add your styles here */
+img{
+    width: 100%;
+}
+.imagesStyle{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);     
+    gap:20px;
+    margin: 20px;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+}
